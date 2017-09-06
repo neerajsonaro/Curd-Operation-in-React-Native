@@ -20,5 +20,4 @@ export default class NodepadApp extends Component {
 }
 
 
-
 AppRegistry.registerComponent('NodepadApp', () => NodepadApp);
